@@ -19,4 +19,14 @@ tools : Spring Boot ,Spring Mvc , Jdbc
 # Buy
 ![image](https://user-images.githubusercontent.com/77521426/210292372-28826eb5-278e-4192-a8cc-3a8f3d00e662.png)
 
+# How to run
+- Download and import project in Eclipse Ide
+- Make database name : springproject 
+- import springproject.sql file in database to Create all table 
+- Right click project and run as spring boot & open: http://localhost:8080/
+
+# Project directory
+![image](https://user-images.githubusercontent.com/77521426/210295264-044eb7ac-5b19-4f53-bb42-0aa34b542682.png)
+
+
 
